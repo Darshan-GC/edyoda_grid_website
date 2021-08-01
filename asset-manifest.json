@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/edyoda_grid_website/static/css/main.cfc258ee.chunk.css",
+    "main.js": "/edyoda_grid_website/static/js/main.aa992d87.chunk.js",
+    "main.js.map": "/edyoda_grid_website/static/js/main.aa992d87.chunk.js.map",
+    "runtime-main.js": "/edyoda_grid_website/static/js/runtime-main.d2732d1d.js",
+    "runtime-main.js.map": "/edyoda_grid_website/static/js/runtime-main.d2732d1d.js.map",
+    "static/js/2.3851e942.chunk.js": "/edyoda_grid_website/static/js/2.3851e942.chunk.js",
+    "static/js/2.3851e942.chunk.js.map": "/edyoda_grid_website/static/js/2.3851e942.chunk.js.map",
+    "static/js/3.9e630be9.chunk.js": "/edyoda_grid_website/static/js/3.9e630be9.chunk.js",
+    "static/js/3.9e630be9.chunk.js.map": "/edyoda_grid_website/static/js/3.9e630be9.chunk.js.map",
+    "index.html": "/edyoda_grid_website/index.html",
+    "static/css/main.cfc258ee.chunk.css.map": "/edyoda_grid_website/static/css/main.cfc258ee.chunk.css.map",
+    "static/js/2.3851e942.chunk.js.LICENSE.txt": "/edyoda_grid_website/static/js/2.3851e942.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2732d1d.js",
+    "static/js/2.3851e942.chunk.js",
+    "static/css/main.cfc258ee.chunk.css",
+    "static/js/main.aa992d87.chunk.js"
+  ]
+}
